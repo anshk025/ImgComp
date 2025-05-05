@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 SELECT_COMPRESSION, SELECT_CONVERSION = range(2)
 
 # Bot token from BotFather
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "7814507700:AAG5ATqlqX44MusXEpCUWzjcYxoOh6et0yM"
 
 # Supported file types
 SUPPORTED_TYPES = [".png", ".jpg", ".jpeg", ".pdf"]
